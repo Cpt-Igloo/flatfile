@@ -1,7 +1,6 @@
 ## Liste des CMS
 
-| Header 1       |     2 header    |   header 3 |
-| -------------- |: -------------: | ---------: |
-| Wordpress      |        1        |      value |
-| Joomla         |        2        |      value |
-| Drupal         |        3        |      value |
+1 header | header 2 | 3 header
+- |:-: | -:
+line `1` | **1** | **_valeur_**
+Line 2 | 2 | *Value*
