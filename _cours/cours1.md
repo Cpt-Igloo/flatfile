@@ -8,6 +8,16 @@
 
 -**ls** : Voir les fichiers présents dans le répertoire actuel
 
+-**mv** : Changer un fichier de répertoire
+
+-**rm** : Supprime un fichier
+
+-**rmdir** : Supprime le dossier spécifié
+
+-**cp** : Fait une copie du fichier spécifié
+
+-**touch** : Créé un nouveau fichier vide
+
 
 ## Commandes Git sur le terminal
 Importer un projet github :
