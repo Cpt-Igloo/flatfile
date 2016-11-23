@@ -16,7 +16,7 @@ Importer un projet github :
 Voir les fichiers en attende de validation :
 >git status
 
-Valider un fichier :
+Valider un ou des fichier(s) :
 >git commit --all
 
 ou
@@ -24,6 +24,7 @@ ou
 
 Envoyer les fichiers validés en ligne :
 >git add --all
+
 >git push origin master
 
 ##Github :

@@ -3,7 +3,6 @@ layout: default
 title: Accueil
 ---
 
-# titre
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at pellentesque nisl. Ut viverra et nisi ut faucibus. Morbi enim massa, lacinia in finibus nec, rhoncus et ipsum. Morbi sed sapien eget massa malesuada euismod et eget mi. Sed convallis id sapien at tristique. Nunc semper, velit eget consectetur vestibulum, enim orci lobortis elit, eu congue lacus risus condimentum felis. Aenean mauris elit, consequat vitae tellus vel, consectetur pretium nisi. Mauris lacinia diam sit amet velit blandit scelerisque. Donec nec lacus id arcu laoreet hendrerit.
 

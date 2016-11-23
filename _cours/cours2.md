@@ -25,7 +25,7 @@ Lancer Jekyll et créer un site :
 Mettre Jekyll à jour :
 >sudo gem update jekyll --no-rdoc --no-ri
 
-Installer des fonctionnalités à Jekyll :
+Installer des fonctionnalités dans Jekyll :
 >sudo gem install github-pages --no-rdoc --no-ri
 
 ##Fonctionnement de Jekyll
@@ -43,7 +43,7 @@ appelés sur la page principale.
 
 -**_includes** : Regroupe les fichiers à inclure dans chaque page html, généralement le head, le header le footer
 
--**_layouts** : Regroupe des templates de pages (nommé default.html)
+-**_layouts** (gabarit en français) : Regroupe des templates de pages (nommé default.html)
 
 -**_site** : A chaque lancement du serveur reprend les pages web modifiés
 
@@ -56,3 +56,18 @@ appelés sur la page principale.
 
 ## Appeler un titre
 >{{site.title}} : {{page.title}}
+
+## Appeler un élément "include"
+>{% include head.html %}
+
+head.html se trouvant dans le dossier includes
+
+## Appeler un layout
+>---
+>layout: defaut
+>---
+
+Le layout est un modèle de page se trouvant dans le dossier du même nom
+
+## Lancer le serveur Jekyll
+Taper dans le terminal >jekyll serve
