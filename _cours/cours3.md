@@ -6,7 +6,7 @@ https://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
 
 Dans le fichier default.html localisé dans le dossier layouts :
 
-{% raw %}
+
     <ul>
       {% for p in site.pages %}
         <li>
@@ -14,7 +14,7 @@ Dans le fichier default.html localisé dans le dossier layouts :
         </li>
       {% endfor %}
     </ul>
-{% endraw %}
+
 
 
 ou
