@@ -1,5 +1,6 @@
 title: Documentation
 
-mes_cours:
-- artistes
-  foo: bar
+collections:
+  cours :
+    output : true
+    foo : bar

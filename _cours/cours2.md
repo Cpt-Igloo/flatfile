@@ -49,10 +49,10 @@ appelés sur la page principale.
 
 ## A mettre sur les fichiers md de pages :
 
-  ---
-  layout: default
-  title: Accueil
-  ---
+>---
+>layout: default
+>title: Accueil
+>---
 
 ## Appeler un titre
 >{{site.title}} : {{page.title}}
