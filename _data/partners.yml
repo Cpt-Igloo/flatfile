@@ -1,7 +1,15 @@
  - nom: Gueudin
-   prenom : Axel
-   github : gueudaxe
+   prenom: Axel
+   github: gueudaxe
 
-- nom: Guivarch
-  prenom : Glen
-  github : cpt-igloo
+ - nom: Guivarch
+   prenom: Glen
+   github: cpt-igloo
+
+ - nom: Termoz
+   prenom: Marine
+   github: mrntrmz
+
+ - nom: Baussard
+   prenom: Romain
+   github: Baussiut

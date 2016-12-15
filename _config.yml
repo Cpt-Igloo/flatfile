@@ -1,8 +1,7 @@
 title: Documentation
 
-baseurl: flatfile/
+url: flatfile/
 
 collections:
-  cours :
-    output : true
-    foo : bar
+  cours:
+    output: true

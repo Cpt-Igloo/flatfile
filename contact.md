@@ -8,7 +8,7 @@ Contacts github :
 {% for partners in site.data.partners %}
   <li>
     <a href="https://github.com/{{ partners.github }}">
-      {{ partners.nom }}
+      {{ partners.nom }} {{ partners.prenom }} 
     </a>
   </li>
 {% endfor %}
