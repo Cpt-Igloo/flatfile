@@ -5,8 +5,8 @@ Créer un dossier "assets" à la racine du site dans lequel on créé les dossie
 Format scss : feuilles de style dans lesquelle on peut créer des variables et faire des boucles.
 
 Les fichiers scss doivent avoir l'en-tête suivant :
->---
----
+ ---
+ ---
 
 Installer sass sur linux :
 >sudo su -c "gem install sass"
