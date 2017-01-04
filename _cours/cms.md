@@ -37,6 +37,11 @@ Critères de comparaison :
 
 Moyen de paiement, Volume, Stockage, Retour, Assurance, Mode de Livraison, Multi-Langues, possibilité d'exportation
 
+##Exercice : Création de site e-commerce
+Thème : Vente de pays
 
-|   *Nom*    |*tarif le moins cher*|   *Nom*    |*tarif le moins cher*|   *Nom*    |*tarif le moins cher*|   *Nom*    |*tarif le moins cher*|
-|:-----------|:-------------------:|:-----------|:-------------------:|:-----------|:-------------------:|:-----------|:-------------------:|
+Nom : MyLand
+
+BaseLine : Ma dose d'espace vital
+
+Produits : Belgique, Albanie, Kirghizsthan, Groenland, Tanzanie, Nouvelle Irlande
