@@ -2,7 +2,7 @@
 
 ## Assets
 Créer un dossier "assets" à la racine du site dans lequel on créé les dossiers "img", "css", "favicon", "fonts", "scripts".
-Format scss : feuilles de style dans lesquelle on peut créer des variables et faire des boucles.
+Format sass : feuilles de style dans lesquelle on peut créer des variables et faire des boucles.
 
 Les fichiers scss doivent avoir l'en-tête suivant :
   ---

@@ -1,7 +1,7 @@
-title: Documentation
+title: myLand
+tagline: Ma dose d'espace vitale
 
 url: flatfile/
 
 collections:
-  cours:
-    output: true
+  - products
