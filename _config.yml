@@ -3,5 +3,34 @@ tagline: Ma dose d'espace vitale
 
 url: flatfile/
 
+snipcart_api_key: ''
+timezone: UTC
+
 collections:
-  - products
+  posts:
+    title: Posts
+    output: true
+  countries:
+    title: countries
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: countries
+  values:
+    layout: country
+    permalink: "/countries/:title/"
+    name: ''
+    price: 0.0
+    sku: ''
+    image: ''
+    weight: 0.0
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
