@@ -1,5 +1,5 @@
 ---
-layout: products
+layout: countries
 title: Store
 ---
 {% for country in site.countries %}

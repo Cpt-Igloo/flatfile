@@ -1,0 +1,15 @@
+<div class="country">
+  <a class="country" href="{{ country.url }}">
+    <img src="{{ country.image }}" alt="{{ country.name }}" class="thumbnail"/>
+    <p>{{ country.name }}</p>
+  </a>
+
+  <button class="snipcart-add-item"
+    data-item-name="{{ country.name }}"
+    data-item-id="{{ country.sku }}"
+    data-item-image="{{ country.image }}"
+    data-item-url="{{ site.url }}{{country.url }}"
+    data-item-price="{{ country.price }}">
+    Buy it for {{ country.price }} $
+  </button>
+</div>
