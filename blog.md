@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Blog
+layout: default
 ---
-
-
 
 <ul>
   {% for post in site.posts %}

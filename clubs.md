@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Clubs de Ligue 1
+layout: default
 ---
 
 <ul>

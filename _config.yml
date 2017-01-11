@@ -1,20 +1,15 @@
+---
 title: myLand
-tagline: Ma dose d'espace vitale
-
-url: flatfile/
-
-snipcart_api_key: ''
 timezone: UTC
-
 collections:
   posts:
     title: Posts
     output: true
-  countries:
-    title: countries
-    output: true
   uploads:
     title: Uploads
+    output: true
+  countries:
+    title: countries
     output: true
 defaults:
 - scope:
@@ -33,4 +28,7 @@ defaults:
     type: pages
   values:
     layout: page
+tagline: Ma dose d'espace vitale
+url: flatfile/
+snipcart_api_key: ''
 permalink: pretty
