@@ -10,7 +10,7 @@
   {% include header.html %}
   <nav>
     {% assign pages=site.html_pages %}
-    <ul>
+    <ul class="nav nav-tabs">
   {% for p in pages %}
     <li>
       <a href="{{ p.url }}">{{ p.title }}</a>
@@ -20,7 +20,7 @@
 
   </nav>
 
-  <main class="wrapper">
+  <main class="container">
 
     {{content}}
   </main>
