@@ -30,5 +30,5 @@ defaults:
     layout: page
 tagline: Ma dose d'espace vitale
 url: flatfile/
-snipcart_api_key: ''
+snipcart_api_key: 
 permalink: pretty
