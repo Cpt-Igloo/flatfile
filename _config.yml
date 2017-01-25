@@ -17,7 +17,6 @@ defaults:
     type: countries
   values:
     layout: country
-    permalink: "/countries/:title/"
     name: ''
     price: 0.0
     sku: ''
